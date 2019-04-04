@@ -1,7 +1,7 @@
 # C# Design Patterns: Part 1
 
 This online course can be found on LinkedIn Learning.
-I have taken a sneak peak to how some design patterns are built and why those are useful.
+I have taken a look to how some design patterns are built and why those are useful.
 
 ## The design patterns that were covered in this course are:
 - Factory Method
