@@ -8,20 +8,31 @@ namespace Singleton
 {
     public class Policy
     {
-        ////This works as a true Singleton but it is not thread safe
 
-        private static Policy _instance;
+        private static readonly Policy _instance = new Policy();
+
         public static Policy Instance
         {
             get
             {
-                if (_instance == null)
-                {
-                    _instance = new Policy();
-                }
                 return _instance;
             }
         }
+
+        //////This works as a true Singleton but it is not thread safe
+
+        //private static Policy _instance;
+        //public static Policy Instance
+        //{
+        //    get
+        //    {
+        //        if (_instance == null)
+        //        {
+        //            _instance = new Policy();
+        //        }
+        //        return _instance;
+        //    }
+        //}
 
         public Policy()
         {
