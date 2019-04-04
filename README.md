@@ -1,1 +1,1 @@
-# C sharp Desing Patterns: Part 1
+# C# Desing Patterns: Part 1
