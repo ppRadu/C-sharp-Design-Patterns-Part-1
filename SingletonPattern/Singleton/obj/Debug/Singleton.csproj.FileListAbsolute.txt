@@ -10,3 +10,10 @@ C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Start\DesignP
 C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
 C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.exe
 C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\bin\Debug\Singleton.exe.config
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\bin\Debug\Singleton.exe
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\bin\Debug\Singleton.pdb
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\obj\Debug\Singleton.exe
+D:\Workspace\GitHub\C# Desing Patterns 1\C-sharp-Desing-Patterns--Part-1\SingletonPattern\Singleton\obj\Debug\Singleton.pdb
